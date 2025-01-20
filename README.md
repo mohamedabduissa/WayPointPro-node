@@ -4,6 +4,8 @@
 
 sudo apt update
 
+sudo apt install git
+
 sudo apt install -y nodejs npm
 
 git clone https://github.com/mohamedabduissa/WayPointPro-node.git
