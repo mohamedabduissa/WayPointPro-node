@@ -8,7 +8,10 @@ sudo apt update
 
 sudo apt install -y git
 
-sudo apt install -y nodejs npm
+sudo curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+
+sudo apt install -y nodejs
+
 
 git clone https://github.com/mohamedabduissa/WayPointPro-node.git
 
