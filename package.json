@@ -32,7 +32,12 @@
 
   },
 
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamedabduissa/WayPointPro-node.git"
+  }
+  
 
 }
 
