@@ -4,7 +4,7 @@
 
 sudo apt update
 
-sudo apt install git
+sudo apt install -y git
 
 sudo apt install -y nodejs npm
 
