@@ -2,9 +2,9 @@
 
 #Steps
 
-sudo apt upgrade 
+sudo apt -y upgrade 
 
-sudo apt update
+sudo apt -y update
 
 sudo apt install -y git
 
